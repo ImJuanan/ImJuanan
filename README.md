@@ -2,9 +2,9 @@
 ### <img src="https://img.shields.io/badge/%E2%9D%A4-Python--Stata--Mplus-red">
 <hr>
 
-👀 I’m looking for some contributors on [CuPy for Machine Learning](https://github.com/ImJuanan/cupyml).  
+👀 I’m looking for someone who wanna coordinate on [CuPy for Machine Learning](https://github.com/ImJuanan/cupyml) with me.  
 
-🌐 Visit my [website](www.yangxk196.com) for more information if you are intrested in  
+🌐 Visit my [website](www.yangxk196.com) for more information if you are intrested in it, 
 
 📧 or contact me by sending a E-mail to yangxk196@163.com.
 <hr>  
