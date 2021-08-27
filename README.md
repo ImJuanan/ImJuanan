@@ -2,7 +2,7 @@
 
 👀 I’m looking for someone who would like to coordinate on [CuPy for Machine Learning](https://github.com/ImJuanan/cupyml) with me.  
 
-🌐 Visit my [website](www.yangxk196.com) for more information if you are intrested in the repo, 
+🌐 Visit my [website](https://www.yangxk196.com) for more information if you are intrested in the repo, 
 
 📧 or contact me by sending a E-mail to yangxk196@163.com.
 #   
