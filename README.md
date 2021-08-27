@@ -1,4 +1,4 @@
-### Hi there! I’m Juan an, and glad to meet you👋😀☀
+### Hi there! I’m 狷盦, and glad to meet you👋😀☀
 ### <img src="https://img.shields.io/badge/%E2%9D%A4-Python--Stata--Mplus-red">
 <hr>
 
