@@ -1,4 +1,4 @@
-# Hi there! I’m 狷盦 <img src="https://img.shields.io/badge/%E2%9D%A4-Python--Stata--Mplus-red">, and glad to meet you👋😀☀
+# Hi there! I’m 狷盦 <img src="https://img.shields.io/badge/%E2%9D%A4-Python--JavaScript--Stata--Mplus-red">, and glad to meet you👋😀☀
 
 ### 👀 I’m looking for someone who would like to coordinate on [CuPy for Machine Learning](https://github.com/ImJuanan/cupyml) with me.  
 
